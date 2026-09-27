@@ -1,0 +1,18 @@
+{
+  "name": "cliente-fetch-basico",
+  "version": "1.0.0",
+  "description": "Cliente fetch básico para enseñanza - solo .then()",
+  "scripts": {
+    "start": "live-server . --port 8000",
+    "dev": "live-server . --port 8000"
+  },
+  "keywords": [
+    "fetch",
+    "teaching",
+    "javascript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
